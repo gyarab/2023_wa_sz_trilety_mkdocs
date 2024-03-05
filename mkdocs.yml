@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: Úkol
+
+nav: 
+    - Úvod: index.md
+    - Otázky na Maturitu: maturita.md
+    - Poznámky: wa_4.md
